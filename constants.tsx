@@ -6,8 +6,8 @@ export const BOT_TOKEN = "8543158894:AAHkaN83tLCgNrJ-Omutn744aTui784GScc";
 export const BOT_ADMIN_ID = "8215056224";
 
 // To'lov uchun karta ma'lumotlari
-export const CARD_DETAILS = "8600 0000 0000 0000";
-export const CARD_HOLDER = "RUSLAN M.";
+export const CARD_DETAILS = "4073 4200 67355457";
+export const CARD_HOLDER = "Gulzebo KH.";
 
 export const translations: Record<Language, Translation> = {
   uz: {
