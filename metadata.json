@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Ruslan Market Mini App",
+  "description": "A comprehensive logistics tracking Telegram Mini App for managing shipments from China with multi-language support, loyalty tiers, and admin controls.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
